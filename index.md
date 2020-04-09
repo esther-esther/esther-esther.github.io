@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 
 # Alyson's site 
 * sample list one 
