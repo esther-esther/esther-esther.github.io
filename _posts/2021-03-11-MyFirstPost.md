@@ -1,5 +1,7 @@
-Trying out this post system!!!
-
+---
+layout: post
+title: "A Test Post"
+---
 
 **Bold font**
 
