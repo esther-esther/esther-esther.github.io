@@ -13,10 +13,7 @@ I recently saw this great documentary about Alice Neel. She is so humble at the 
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MQtSDLOg05c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width=100% height="350" src="https://www.youtube.com/embed/MQtSDLOg05c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
-
-<iframe class="responsive-iframe" src="https://www.youtube.com/embed/MQtSDLOg05c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
