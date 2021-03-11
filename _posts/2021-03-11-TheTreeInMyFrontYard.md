@@ -8,3 +8,15 @@ Once, when I was younger, much younger, I dreamt of the tree in front of my hous
  ![alysonscan 1](/assets/alysonscan%201.jpg)
 
    > hey
+
+I recently saw this great documentary about Alice Neel. She is so humble at the same time that she holds herself in such high regard.
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MQtSDLOg05c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/MQtSDLOg05c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
